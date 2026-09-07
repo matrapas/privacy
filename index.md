@@ -13,4 +13,4 @@ Applications may collect anonymous data about the use of features and interactio
 This Policy may be amended from time to time. The date of the latest update is indicated in the current version of the Policy.
 
 ## Feedback
-   [Write](mailto:matrapas@me.com) if you have any questions regarding this Policy.
+[Contact](mailto:matrapas@me.com) if you have any questions regarding this Policy.
