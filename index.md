@@ -1,14 +1,16 @@
 # Privacy Policy
-> Updated: February 22, 2022
+> Updated: September 7, 2026
 
 ## 1. Introduction
-We respect every user's right to privacy. We ask you to read the Confidentiality Agreement regarding personal data of users (hereinafter referred to as the Agreement).
+This Privacy Policy (hereinafter referred to as the “Policy”) describes how data is handled when using the applications.
 
 ## 2. Personal Data
-When you download and use our applications, we do not require you to provide any information and do not record any data about you or your application.
-   
-## 3. Agreement Changes
-We have the right to make changes to this Agreement. When making changes in the current version, the date of the last update is indicated.
+Providing personal data is not required to download or use the applications.
+
+Applications may collect anonymous data about the use of features and interaction with the applications for the purpose of analyzing and improving their operation.
+
+## 3. Changes to the Policy
+This Policy may be amended from time to time. The date of the latest update is indicated in the current version of the Policy.
 
 ## Feedback
-   [Contact us](mailto:matrapas@me.com) if you have any questions about this Agreement.
+   [Write](mailto:matrapas@me.com) if you have any questions regarding this Policy.
